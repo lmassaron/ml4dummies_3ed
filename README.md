@@ -13,6 +13,7 @@ With the help of this book and the code in this repository, you will:
 *   Write your own machine learning algorithms.
 *   Grind through the math behind machine learning and see how it all works.
 *   Integrate machine learning into larger programming and data science projects.
+*   Revise key concepts for technical interviews, making it a valuable resource for experienced data scientists and machine learning engineers.
 
 ## About this Repository
 
