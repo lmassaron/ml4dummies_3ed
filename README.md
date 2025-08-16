@@ -24,7 +24,7 @@ This repository holds the Jupyter Notebooks (`.ipynb` files) that accompany each
 Each notebook can be opened directly in Google Colab by clicking on the corresponding link.
 
 *   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml4dummies_3ed/blob/main/ML4D3E_05_understanding_the_tools_of_the_trade.ipynb) `ML4D3E_05_understanding_the_tools_of_the_trade.ipynb`
-*   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml4dummies_3ed/blob/main/ML4D3E_5_getting_beyond_basic_coding_in_python.ipynb) `ML4D3E_5_getting_beyond_basic_coding_in_python.ipynb`
+*   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml4dummies_3ed/blob/main/ML4D3E_06_getting_beyond_basic_coding_in_python.ipynb) `ML4D3E_06_getting_beyond_basic_coding_in_python.ipynb`
 *   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml4dummies_3ed/blob/main/ML4D3E_07_demystifying_the_math_behind_machine_learning.ipynb) `ML4D3E_07_demystifying_the_math_behind_machine_learning.ipynb`
 *   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml4dummies_3ed/blob/main/ML4D3E_09_validating_machine_learning.ipynb) `ML4D3E_09_validating_machine_learning.ipynb`
 *   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmassaron/ml4dummies_3ed/blob/main/ML4D3E_10_starting_with_simple_learners.ipynb) `ML4D3E_10_starting_with_simple_learners.ipynb`
