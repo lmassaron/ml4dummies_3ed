@@ -1,6 +1,6 @@
 # Machine Learning For Dummies, 3rd Edition
 
-![Book Cover](81AkdcZ5FoL._SL1500_.jpg)
+[<img src="./81AkdcZ5FoL._SL1500_.jpg" width="450">](https://www.wiley.com/en-us/Machine+Learning+For+Dummies%2C+3rd+Edition-p-9781394373239)
 
 ## Your plain-English, BRAND-NEW guide to machine learning
 
