@@ -1,4 +1,4 @@
-# Machine Learning For Dummies, 3rd Edition
+# Machine Learning For Dummies, 3rd Edition (2025)
 
 [<img src="./81AkdcZ5FoL._SL1500_.jpg" width="450">](https://www.wiley.com/en-us/Machine+Learning+For+Dummies%2C+3rd+Edition-p-9781394373239)
 
